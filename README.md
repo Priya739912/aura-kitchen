@@ -1,2 +1,3 @@
 # aura-kitchen
 Aura Kitchen is a stylish and easy-to-use food website that brings delicious recipes and kitchen inspiration together in one place. Designed with a clean layout and smooth navigation, it offers an enjoyable browsing experience for food lovers while showcasing creativity and modern web design.
+https://priya739912.github.io/aura-kitchen/
